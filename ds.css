@@ -35,7 +35,7 @@
   width: 40px;
   height: 40px;
   background-color: var(--background-secondary);
-  border-radius: calc(var(--avatar-radius) + 2px);
+  border-radius: calc(var(--avatar-radius) + 0px);
 }
 :root .typing-2J1mQU {
   left: 66px;
@@ -780,7 +780,7 @@
   box-shadow: 0 0 10px 0 #101320d2;
 }
 :root .userPopout-2j1gM4 .avatarPositionNormal-2jWoC2 {
-  top: 8px;
+  top: 76px;
 }
 :root .userPopout-2j1gM4 .headerTop-3GPUSF {
   padding: 54px 16px 16px 16px;
